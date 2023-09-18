@@ -1,0 +1,7 @@
+div > .bg-info {
+    text-align: center;
+}
+
+.aside {
+    display: flex;
+}
